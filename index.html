@@ -13,14 +13,17 @@
     />
     <link rel="stylesheet" href="static/css/style.css">
 </head>
-<body>
+<!-- apply a dark background to the entire page -->
+<body class="bg-dark">
     <div class="wrapper">
-        <nav class="navbar navbar-expand-lg">
+      <!-- apply a dark background and light lettering to the navbar -->
+        <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
             <a class="navbar-brand" href="index.html">UFO Sightings</a>
         </nav>
     </div>
     <div class="jumbotron">
-        <h1>The Truth Is Out There</h1>
+      <!-- change the font style and size of jumbotron -->
+        <h1 class="display-4">The Truth Is Out There</h1>
     </div>
     <div class="container-fluid">
         <div class="row">
@@ -41,7 +44,7 @@
           <div class="col-md-3">
             <form class="bg-dark">
               <p>Filter Search</p>
-              <ul class="list-group">
+              <ul class="list-group bg-dark">
                 <li class="list-group-item bg-dark">
                   <label for="datetime">Enter Date</label>
                   <input type="text" placeholder="1/10/2010" id="datetime" />
