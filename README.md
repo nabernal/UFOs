@@ -7,19 +7,24 @@
 # Results: 
 
 
-webpage_top.png
-#### When someone visits the webpage, they will first see the header, the page summary, and then the sightings. On the left-hand side of the sightings list is the Filter Search tool. 
+<img width="1431" alt="webpage_top" src="https://user-images.githubusercontent.com/108249510/205242666-72a5c6fa-d460-4985-a350-31a51969faab.png">
+
+#### Image Above: When someone visits the webpage, they will first see the header, the page summary, and then the sightings. On the left-hand side of the sightings list is the Filter Search tool. 
 
 
+<img width="1429" alt="webpage_bottom" src="https://user-images.githubusercontent.com/108249510/205242682-815b7e4b-6ec0-441a-a181-8cc415c41868.png">
 
-webpage_bottom.png
-#### As shown above, the Filter Search tool has five filters, each with instructions on what to enter and an example of how to enter the information.  
+#### Image Above: As shown above, the Filter Search tool has five filters, each with instructions on what to enter and an example of how to enter the information.
 
-narrow_search.png
-#### After entering information in a filter and pressing ente, the UFO sightings list will display results that match the filter(s).The more filters are entered, the more narrow the results. 
 
-more_results.png
-#### For a larger list of sightings, it is recommended to use fewer filters by 
+<img width="1422" alt="more_results" src="https://user-images.githubusercontent.com/108249510/205242755-a3a8f8ad-2992-4f42-bf0d-12b5a6a6e969.png">
+
+#### Image Above: After entering information in a filter and pressing ente, the UFO sightings list will display results that match the filter(s). 
+
+
+<img width="1427" alt="narrow_search" src="https://user-images.githubusercontent.com/108249510/205243052-1a3762fb-0fb6-4eda-8b7f-f2f2768fc8d6.png">
+
+#### Image Above: The more filters are entered, the more narrow the results. Therefore it is recommended to use less filters for more results.
 
 # Summary: 
 
